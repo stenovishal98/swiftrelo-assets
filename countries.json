@@ -2,36 +2,19 @@
   {
     "country": "China",
     "iso2": "CN",
+    "code": "+86",
     "flag": "https://flagcdn.com/w40/cn.png"
   },
   {
     "country": "Hong Kong",
     "iso2": "HK",
+    "code": "+852",
     "flag": "https://flagcdn.com/w40/hk.png"
   },
   {
     "country": "India",
     "iso2": "IN",
+    "code": "+91",
     "flag": "https://flagcdn.com/w40/in.png"
-  },
-  {
-    "country": "United States",
-    "iso2": "US",
-    "flag": "https://flagcdn.com/w40/us.png"
-  },
-  {
-    "country": "United Kingdom",
-    "iso2": "GB",
-    "flag": "https://flagcdn.com/w40/gb.png"
-  },
-  {
-    "country": "Australia",
-    "iso2": "AU",
-    "flag": "https://flagcdn.com/w40/au.png"
-  },
-  {
-    "country": "Canada",
-    "iso2": "CA",
-    "flag": "https://flagcdn.com/w40/ca.png"
   }
 ]
